@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class DivisionTest {
-    /// ci test
+    /// ci testing2
     @Test
     void testDivideNormal() {
         Division calc = new Division();
